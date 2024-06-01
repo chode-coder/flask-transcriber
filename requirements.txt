@@ -1,5 +1,5 @@
 Flask==2.0.2
 whisper==1.0
-numpy==1.22.0
-torch==1.11.0
+numpy==1.23.3
+torch==1.13.1
 soundfile==0.10.3
